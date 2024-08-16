@@ -1,6 +1,12 @@
 import React from "react";
 import img from "../assets/LOGO.png";
 
+import aimg from "../assets/ai.jpg"
+import artimg from "../assets/art.jpg"
+import stockimg from "../assets/stock.jpg"
+import worldimg from "../assets/world.jpg"
+import techimg from "../assets/tech.jpg"
+
 const Body = () => {
   return (
     <div className="body">
@@ -17,13 +23,13 @@ const Body = () => {
             </p>
           </div>
           <div className="image-area-1">
-            <img src={img} alt="Economic Shift" />
+            <img src={stockimg} alt="Economic Shift" />
           </div>
         </div>
 
         <div className="Secondary-section">
           <div className="image-area-2">
-            <img src={img} alt="Tech Innovations" />
+            <img src={techimg} alt="Tech Innovations" />
           </div>
           <div className="content-area-2">
             <h3>Tech Innovations: Leading the Future</h3>
@@ -49,13 +55,13 @@ const Body = () => {
             </p>
           </div>
           <div className="image-area-1">
-            <img src={img} alt="Global Politics" />
+            <img src={worldimg} alt="Global Politics" />
           </div>
         </div>
 
         <div className="Secondary-section">
           <div className="image-area-2">
-            <img src={img} alt="Cultural Spotlight" />
+            <img src={artimg} alt="Cultural Spotlight" />
           </div>
           <div className="content-area-2">
             <h3>Cultural Spotlight: Arts & Society</h3>

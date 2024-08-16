@@ -17,6 +17,7 @@ const Header=()=>{
         <div className="login-section">
           <button> Login</button>
           <button>Register</button>
+      
         </div>
       </div>
     );
