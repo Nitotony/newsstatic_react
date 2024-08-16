@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/static/css/main.85eb8a64.css",
-    "main.js": "/static/js/main.d5571ce0.js",
-    "static/js/453.794c7aa2.chunk.js": "/static/js/453.794c7aa2.chunk.js",
-    "static/media/world.jpg": "/static/media/world.92028798cd4aeed44dc5.jpg",
-    "static/media/art.jpg": "/static/media/art.d7f2b1374210d4387ef5.jpg",
-    "static/media/tech.jpg": "/static/media/tech.cf2110bdaf769a05a769.jpg",
-    "static/media/ai.jpg": "/static/media/ai.ccaa595de7bd5cf2c554.jpg",
-    "static/media/stock.jpg": "/static/media/stock.66ddb594bc91de4d2319.jpg",
-    "static/media/LOGO.png": "/static/media/LOGO.8700e7f30f39d79d6cd5.png",
-    "index.html": "/index.html",
-    "main.85eb8a64.css.map": "/static/css/main.85eb8a64.css.map",
-    "main.d5571ce0.js.map": "/static/js/main.d5571ce0.js.map",
-    "453.794c7aa2.chunk.js.map": "/static/js/453.794c7aa2.chunk.js.map"
+    "main.css": "/newsstatic_react/static/css/main.85eb8a64.css",
+    "main.js": "/newsstatic_react/static/js/main.0f7f13d1.js",
+    "static/js/453.794c7aa2.chunk.js": "/newsstatic_react/static/js/453.794c7aa2.chunk.js",
+    "static/media/world.jpg": "/newsstatic_react/static/media/world.92028798cd4aeed44dc5.jpg",
+    "static/media/art.jpg": "/newsstatic_react/static/media/art.d7f2b1374210d4387ef5.jpg",
+    "static/media/tech.jpg": "/newsstatic_react/static/media/tech.cf2110bdaf769a05a769.jpg",
+    "static/media/ai.jpg": "/newsstatic_react/static/media/ai.ccaa595de7bd5cf2c554.jpg",
+    "static/media/stock.jpg": "/newsstatic_react/static/media/stock.66ddb594bc91de4d2319.jpg",
+    "static/media/LOGO.png": "/newsstatic_react/static/media/LOGO.8700e7f30f39d79d6cd5.png",
+    "index.html": "/newsstatic_react/index.html",
+    "main.85eb8a64.css.map": "/newsstatic_react/static/css/main.85eb8a64.css.map",
+    "main.0f7f13d1.js.map": "/newsstatic_react/static/js/main.0f7f13d1.js.map",
+    "453.794c7aa2.chunk.js.map": "/newsstatic_react/static/js/453.794c7aa2.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.85eb8a64.css",
-    "static/js/main.d5571ce0.js"
+    "static/js/main.0f7f13d1.js"
   ]
 }
